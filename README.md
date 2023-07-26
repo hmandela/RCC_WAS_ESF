@@ -8,7 +8,14 @@
   sudo apt-get install wget
   wget -c -r https://repo.anaconda.com/archive/Anaconda3-2023.07-1-Linux-x86_64.sh --no-check-certificate
   ```
-  - hhhh
+  - Install anaconda
+    ```bash
+    bash https://repo.anaconda.com/archive/Anaconda3-2023.07-1-Linux-x86_64.sh
+    ```
+  - Create an environment
+ 
+  - 
+
   
 
  
