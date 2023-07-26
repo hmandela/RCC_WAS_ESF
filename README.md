@@ -1,2 +1,1 @@
-# RCC_WAS_ESF
-Extended seasonal forecast in West Africa
+# <span style="color:green"> Extended seasonal forecasts in agriculture and water resources sectors </span>
