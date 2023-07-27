@@ -49,7 +49,7 @@ Quit `python` using  `ctrl+D`
 ## 5- Install the necessary packages for RCC_WAS_ESF
 
 ```bash
-
+conda 
 ```
 
 
