@@ -26,12 +26,9 @@ For Windows, run Anaconda prompt, and for Linux, launch the terminal. Copy and p
 - Once you successfully create an account, kindly log in to your  Copernicus account [here](https://cds.climate.copernicus.eu/user) and note your `UID` and `API key`.
 
 ## 4- Configure .cdsapirc file
-In your activated terminal, where the RCC_WAS_SF environment is active, kindly initiate the Python interpreter by entering the command `python3`. Subsequently, carefully copy and paste the below code, ensuring to replace "UID" and "API key" with yours.
+In your activated terminal, where the RCC_WAS_SF environment is active, kindly initiate the Python interpreter by entering the command `python3`. Subsequently, carefully copy and paste the below code, ensuring to replace "UID" and "API_KEY" with yours.
 ```python3
 import os
-UID = "your UID here"
-
-API_KEY = "your API key here"
 
 config_data = '''url: https://cds.climate.copernicus.eu/api/v2
 key: UID:API_KEY
