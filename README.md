@@ -46,7 +46,7 @@ Quit `python3` using  `ctrl+D`
 ## 5- Install the necessary packages for RCC_WAS_ESF
 
 ```bash
-conda 
+conda install -c conda-forge cdsapi
 ```
 
 
