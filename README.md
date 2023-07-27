@@ -41,7 +41,7 @@ if not os.path.exists(path_to_home):
     with open(path_to_home, 'w') as file:
         file.write(config_data)
 ```
-Quit `python` using  `ctrl+D`
+Quit `python3` using  `ctrl+D`
 
 ## 5- Install the necessary packages for RCC_WAS_ESF
 
