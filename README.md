@@ -48,9 +48,9 @@ Quit `python3` using  `ctrl+D`
 ```bash
 pip install xarray==2022.11.0
 pip install cdsapi 
-pip install   pandas
+pip install pandas
 conda install jupyter
-pip install  rasterio
+pip install rasterio
 pip install rioxarray
 python -m ipykernel install --user --name=RCC_WAS_ESF
 conda install -c r r-essentials r-irkernel
