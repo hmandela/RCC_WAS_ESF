@@ -46,8 +46,10 @@ Quit `python3` using  `ctrl+D`
 ## 5- Install the necessary packages for RCC_WAS_ESF
 
 ```bash
-pip install xarray==2022.11.0 cdsapi 
-pip install   pandas jupyter
+pip install xarray==2022.11.0
+pip installcdsapi 
+pip install   pandas
+conda install jupyter
 pip install  rasterio
 pip install rioxarray
 python -m ipykernel install --user --name=RCC_WAS_ESF
