@@ -47,7 +47,7 @@ Quit `python3` using  `ctrl+D`
 
 ```bash
 pip install xarray==2022.11.0
-pip installcdsapi 
+pip install cdsapi 
 pip install   pandas
 conda install jupyter
 pip install  rasterio
