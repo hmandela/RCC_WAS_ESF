@@ -54,6 +54,17 @@ pip install rasterio
 pip install rioxarray
 python -m ipykernel install --user --name=RCC_WAS_ESF
 conda install -c r r-essentials r-irkernel
+conda install r-rgeos
+conda install r-rgdal
+conda install -c r r-sf 
+conda install -c r-stars
+conda install -c r r-tidyverse 
+conda install -c r r-scales 
+conda install -c r r-lubridate 
+conda install -c r r-foreach
+conda install -c r r-doParallel
+conda install -c r r-raster 
+conda install -c r r-ncdf4
 ```
 
 
